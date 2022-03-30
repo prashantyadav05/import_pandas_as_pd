@@ -1,5 +1,6 @@
 # pandas
-Important functions of pandas library:
+This repository contains a few peculiar things I've learned about **pandas** library. Here is a friendly introduction to pandas weirdness.
+## What's in this repository?
 * Read CSV files.
 * List of Dictionaries to a Pandas DataFrame.
 * Iterate over Rows of a Dataframe.
@@ -30,3 +31,4 @@ Important functions of pandas library:
 *  Pivot Tables
 *  crosstab()
 
+Rest, I'm still learning pandas quirks, feedback is much appreciated.
